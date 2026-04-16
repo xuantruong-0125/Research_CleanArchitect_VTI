@@ -122,7 +122,7 @@ Việc chuyển đổi giữa các model là cần thiết để:
 
 ---
 
-# B. Giới thiệu project
+# B. Phân tích Module Quản lý hệ thống trong CRM Project áp dụng Clean Architecture
 
 Project này xây dựng hệ thống **quản lý người dùng và phân quyền theo menu và chức năng** dựa trên mô hình RBAC (Role-Based Access Control), với các bảng chính: `users`, `roles`, `permissions`, `menus`, `organizations`.
 
